@@ -1,6 +1,6 @@
 # react-typescript-mui-parcel-template
 
-React TypeScript Parcel template.
+React TypeScript Parcel MUI template. Cloned from [react-typescript-parcel-template](https://github.com/remarkablemark/react-typescript-parcel-template).
 
 ## Prerequisites
 
