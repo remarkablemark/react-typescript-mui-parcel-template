@@ -1,3 +1,10 @@
+import Header from '../Header';
+
 export default function App() {
-  return <h1>Welcome to React TypeScript Parcel!</h1>;
+  return (
+    <>
+      <Header />
+      <h1>Welcome to React TypeScript Parcel!</h1>
+    </>
+  );
 }
