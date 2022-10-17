@@ -1,4 +1,4 @@
-# react-typescript-parcel-template
+# react-typescript-mui-parcel-template
 
 React TypeScript Parcel template.
 
@@ -11,8 +11,8 @@ React TypeScript Parcel template.
 Clone the repository:
 
 ```sh
-git clone https://github.com/remarkablemark/react-typescript-parcel-template.git
-cd react-typescript-parcel-template
+git clone https://github.com/remarkablemark/react-typescript-mui-parcel-template.git
+cd react-typescript-mui-parcel-template
 ```
 
 Install the dependencies:
