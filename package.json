@@ -18,6 +18,7 @@
     "@commitlint/config-conventional": "^17.1.0",
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
+    "@fontsource/roboto": "^4.5.8",
     "@mui/material": "^5.10.9",
     "@parcel/packager-raw-url": "^2.7.0",
     "@parcel/transformer-webmanifest": "^2.7.0",
