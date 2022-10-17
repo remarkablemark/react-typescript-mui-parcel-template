@@ -1,6 +1,6 @@
 import GitHubIcon from '@mui/icons-material/GitHub';
 import AppBar from '@mui/material/AppBar';
-import Box from '@mui/material/Box';
+import Container from '@mui/material/Container';
 import IconButton from '@mui/material/IconButton';
 import Link from '@mui/material/Link';
 import Toolbar from '@mui/material/Toolbar';
@@ -8,9 +8,9 @@ import Typography from '@mui/material/Typography';
 
 export default function Header() {
   return (
-    <Box sx={{ flexGrow: 1 }}>
-      <AppBar position="static">
-        <Toolbar>
+    <AppBar position="static">
+      <Container>
+        <Toolbar disableGutters sx={{ flexGrow: 1 }}>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
             Template
           </Typography>
@@ -26,7 +26,7 @@ export default function Header() {
             <GitHubIcon />
           </Link>
         </Toolbar>
-      </AppBar>
-    </Box>
+      </Container>
+    </AppBar>
   );
 }
