@@ -19,7 +19,7 @@
     "@emotion/react": "11.10.5",
     "@emotion/styled": "11.10.5",
     "@fontsource/roboto": "4.5.8",
-    "@mui/icons-material": "5.10.16",
+    "@mui/icons-material": "5.15.2",
     "@mui/material": "5.10.17",
     "@parcel/packager-raw-url": "2.10.3",
     "@parcel/transformer-webmanifest": "2.10.3",
