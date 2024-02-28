@@ -23,7 +23,7 @@
     "@mui/material": "5.15.11",
     "@parcel/packager-raw-url": "2.11.0",
     "@parcel/transformer-webmanifest": "2.11.0",
-    "@types/react": "18.2.59",
+    "@types/react": "18.2.60",
     "@types/react-dom": "18.2.19",
     "@typescript-eslint/eslint-plugin": "7.1.0",
     "@typescript-eslint/parser": "7.1.0",
